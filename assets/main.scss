@@ -1,0 +1,12 @@
+---
+---
+/*
+ * assets/main.scss
+ * the dashed lines above are required
+ */
+$background-color: #FFFFFF; /* a dark, off-black for the bg */
+$text-color: #E4943E; /* an off-white for the text 228 148 62 E4 94 3E*/
+$grey-color-light: #565656; /* for the border-top separators */
+$grey-color-dark: #E4943E; /* such as the site title in the header, visited */
+
+@import "{{ site.theme }}";
