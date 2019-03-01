@@ -3,13 +3,13 @@ layout: page
 title: Privacy Policy
 ---
 
-*Last modification: February 26th 2019*
+*Last modification: March 1st 2019*
 
 ### Personal Information
 We are not collecting any personal information from the users. 
 
 ### Anonymized Information
-We are using Google Firebase in the game in order to gather insights about the usage of our products. This tools gather information about users and anonymize it in order to avoid storing personal information.  
+We are using Google Firebase in the app in order to gather insights about the usage of our products. This tools gather information about users and anonymize it in order to avoid storing personal information.  
 Please, follow the link for more information : [https://firebase.google.com/support/privacy/](https://firebase.google.com/support/privacy/)
 
 ### Ad Serving Technology

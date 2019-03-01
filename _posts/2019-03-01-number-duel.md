@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Number Duel
-date: 2019-02-03 11:24 +0900
+date: 2019-03-01 11:24 +0900
 ---
-# Compete your sense of number with your dear friend !!
+# Compete your sense of number with your dear friends !!
 # It's exciting and you can train your brain also !!  
-
+[<img src="/assets/img/googlePlay.png" width="400">](http://google.com/)
 # Basic Rules
 * **Tap** numbers between 0 and 100 in ascending order ASAP
 * **Long Press** only for duel mode
